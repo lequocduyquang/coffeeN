@@ -13,8 +13,11 @@
 - NV: Menu của cửa hàng, quý khách muốn dùng món gì ạ ?
 - Bạn A: Cho mình 1 cafe đá
 - Bạn B: Cho mình 1 bạc xỉu
+- Bạn A: Eh t thấy bạn phục vụ quán nhanh nhẹn ràng ghê, hôm trc t đi ăn ở 1 quán
+        - Mà menu thức ăn để riêng
+        - Menu đồ uống lại dc tổ thức kiểu khác, làm bạn nv phải đưa cả 2 menu cực quá
 
-==> Áp dụng Iterator pattern
+==> Áp dụng Iterator pattern (Menu dc trình bày rõ ràng nhất quán)
 
 # 3. Builder pattern
 - Cả 2 cùng đến quán cafe X
