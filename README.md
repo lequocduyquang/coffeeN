@@ -8,20 +8,20 @@
 
 ==> Áp dụng factory pattern 
 
-# 2. Builder pattern
+
+# 2. Iterator pattern
+- NV: Menu của cửa hàng, quý khách muốn dùng món gì ạ ?
+- Bạn A: Cho mình 1 cafe đá
+- Bạn B: Cho mình 1 bạc xỉu
+
+==> Áp dụng Iterator pattern
+
+# 3. Builder pattern
 - Cả 2 cùng đến quán cafe X
 - Bạn A: cho mình 1 ly bạc xỉu size vừa, 50% đá
 - Bạn B: cho mình 1 ly đá size lớn, 30% đường
 
 ==> Áp dụng builder pattern
-
-
-# 3. Singleton pattern
-- Bạn A: Eh m, thấy quán cũng đông, người chủ sẽ quản lý doanh thu trong ngày ntn m?
-            Có khi nào kê khống doanh thu gian lận được ko
-- Bạn B: Ko m, có kĩ thuật logging để ktra hết rồi
-
-==> Áp dụng singleton pattern
 
 
 # 4. Facade pattern
