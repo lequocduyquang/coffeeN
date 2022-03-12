@@ -21,7 +21,7 @@
             Có khi nào kê khống doanh thu gian lận được ko
 - Bạn B: Ko m, có kĩ thuật logging để ktra hết rồi
 
-==> Áp dụng singleton pattern (Xem xét kĩ lại)
+==> Áp dụng singleton pattern
 
 
 # 4. Facade pattern
